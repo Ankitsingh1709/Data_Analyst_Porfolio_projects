@@ -1,7 +1,7 @@
 
 ## Overview
 
-Welcome!! to my GitHub repository hosts a comprehensive project that combines data analysis and ETL pipeline implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
+Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
 ## Data Analysis
 
