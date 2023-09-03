@@ -1,5 +1,5 @@
 # Movie Data Analysis
-[Alt text](image.png)
+![Alt text](image.png)
 
 ## Overview
 
