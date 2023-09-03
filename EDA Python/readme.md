@@ -1,4 +1,5 @@
 # Movie Data Analysis
+[Alt text](image.png)
 
 ## Overview
 
