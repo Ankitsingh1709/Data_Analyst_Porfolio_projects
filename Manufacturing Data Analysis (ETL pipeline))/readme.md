@@ -1,7 +1,7 @@
 # Project: Manufacturing Data Analysis with Python, PostgreSQL, and dbt
 
 ## Overview
-This project focuses on analyzing manufacturing data at X to ensure production is aligned with our plans. We'll create a visualization that tracks the number of units manufactured, planned, and the production backlog, helping us make data-driven decisions. The process includes data extraction using Python, data transformation with dbt, and visualization in Tableau.
+This project focuses on analyzing manufacturing data at X to ensure production is aligned with our plans. We'll create a visualization that tracks the number of units manufactured, planned, and the production backlog, helping us make data-driven decisions. The process includes data extraction using Python, data transformation with dbt, and visualization in Power BI.
 
 ## Project Structure
 - **Data Extraction (Python Script)**:
@@ -31,8 +31,8 @@ This project focuses on analyzing manufacturing data at X to ensure production i
   - We calculate the production backlog by subtracting actual production from planned production.
   - This is a critical metric for understanding our production efficiency.
 
-- **Tableau Visualization**:
-  - Using Tableau, we create an interactive visualization that fulfills the Head of Operations' requirements.
+- **Power BI Visualization**:
+  - Using Power BI, we create an interactive visualization that fulfills the Head of Operations requirements.
   - The visualization displays units manufactured and planned as bars, while the production backlog is shown as a line.
   - Users can select different products for a more tailored view.
 
