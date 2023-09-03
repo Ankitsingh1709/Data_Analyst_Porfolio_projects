@@ -1,1 +1,1 @@
-# All the data are for only pratice purpose it's not related to any organization 
+# All the data are for only pratice purpose it's not related to any organization
