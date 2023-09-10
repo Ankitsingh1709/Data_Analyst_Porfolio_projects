@@ -1,5 +1,6 @@
 # Customer Churn in Telecommunications
-![image](https://medium.com/@peninarandu/predicting-customer-churn-in-the-telecom-industry-cc09035ff15b)
+![image](![image](https://github.com/Ankitsingh1709/Python-projects/assets/98055645/caba06a1-0636-4b02-a4ab-3b43d2536491)
+)
 ## Project Overview
 The Customer Churn in Telecommunications project focuses on understanding and predicting customer churn within the telecommunications industry. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using the services of a company and move to a competitor or discontinue using the service altogether. This project aims to analyze and model customer behavior to identify factors that contribute to churn and develop strategies to mitigate it.
 
