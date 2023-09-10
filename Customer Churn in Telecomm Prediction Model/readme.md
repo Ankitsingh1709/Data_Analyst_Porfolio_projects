@@ -56,4 +56,4 @@ By working on this project, we aim to gain a deeper understanding of customer be
 
 4. Non-Senior Citizens: It's interesting to observe that non-senior citizens are more likely to churn. This demographic insight can inform targeted retention strategies to better cater to the needs and preferences of different age groups.
 
-Feel free to expand on this description to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
+Feel free to expand on this **description** to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
