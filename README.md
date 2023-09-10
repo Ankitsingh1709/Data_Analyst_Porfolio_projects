@@ -1,7 +1,7 @@
 
 ## Overview
 
-Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
+Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
 ## Data Analysis
 
@@ -23,6 +23,9 @@ In addition to data analysis, this project features a robust ETL pipeline. The E
 
 - **Load**: Once the data is transformed, it is loaded into a suitable storage or database for easy access and future use.
 
+## Customer Churn in Telecommunications
+
+The Customer Churn in Telecommunications project focuses on understanding and predicting customer churn within the telecommunications industry. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using the services of a company and move to a competitor or discontinue using the service altogether. This project aims to analyze and model customer behavior to identify factors that contribute to churn and develop strategies to mitigate it.
 
 
 ## Contribution
