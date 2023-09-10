@@ -45,4 +45,4 @@ The dataset includes the following columns with their descriptions:
 
 By working on this project, we aim to gain a deeper understanding of customer behavior in the telecommunications sector and develop data-driven solutions to reduce churn and improve customer retention.
 
-Feel free to expand on this README to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
+Feel free to expand on this description to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
