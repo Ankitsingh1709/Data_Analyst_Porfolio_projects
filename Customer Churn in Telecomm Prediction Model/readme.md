@@ -45,4 +45,15 @@ The dataset includes the following columns with their descriptions:
 
 By working on this project, we aim to gain a deeper understanding of customer behavior in the telecommunications sector and develop data-driven solutions to reduce churn and improve customer retention.
 
+
+# Conclusion
+### Insights
+1. Electronic Check Medium: It's noteworthy that customers using electronic check as their payment medium tend to have the highest churn rates. This suggests that there might be issues or concerns related to the electronic check payment method that could be contributing to churn.
+
+2. Contract Type - Monthly Customers: Customers on a monthly contract basis are more likely to churn. This could be attributed to the absence of long-term commitments, as they have the flexibility to switch providers without contractual obligations.
+
+3. No Online Security, No Tech Support: Customers without online security and tech support features tend to exhibit higher churn rates. This indicates the importance of these services in retaining customers, as their absence may lead to dissatisfaction and attrition.
+
+4. Non-Senior Citizens: It's interesting to observe that non-senior citizens are more likely to churn. This demographic insight can inform targeted retention strategies to better cater to the needs and preferences of different age groups.
+
 Feel free to expand on this description to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
