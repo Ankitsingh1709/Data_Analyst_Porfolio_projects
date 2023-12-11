@@ -5,9 +5,9 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 
 - [Data Analysis Project](#data-analysis)
 - [ETL Pipeline](#etl-pipeline)
-- [Customer Churn in Telecommunications](#customer-churn)
-- [Medical Cost Prediction](#medical-cost-prediction)
-- [Salary Prediction](#salary-prediction)
+- [Customer Churn in Telecommunications](#Customer Churn in Telecommunications)
+- [Medical Cost Prediction](#Medical Cost Prediction)
+- [Salary Prediction](#Salary Prediction)
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
@@ -36,12 +36,12 @@ In addition to data analysis, this project features a robust ETL pipeline. The E
 
 The Customer Churn in Telecommunications project focuses on understanding and predicting customer churn within the telecommunications industry. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using the services of a company and move to a competitor or discontinue using the service altogether. This project aims to analyze and model customer behavior to identify factors that contribute to churn and develop strategies to mitigate it.
 
-# Medical Cost Prediction:
+## Medical Cost Prediction
 * Description: The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
 * Technologies Used: The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
 * Results: The Decision Tree Regressor and Random Forest Regressor performed well
 
-## Salary Prediction:
+## Salary Prediction
 The focus of the Demographic-Based Salary Prediction project is to develop a predictive model that estimates the salaries of individuals from diverse countries and races based on their demographic attributes. These attributes encompass a range of variables, including occupation, age, gender, experience, and education. The dataset for this project, acquired from Kaggle, comprises 32,561 rows and 15 columns, with 8 independent variables and the target variable, "Salary."
 
 ## Contribution
