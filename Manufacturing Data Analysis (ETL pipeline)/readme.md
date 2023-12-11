@@ -55,4 +55,4 @@ This project focuses on analyzing manufacturing data at X to ensure production i
 ## Conclusion
 This project demonstrates the power of data analytics in tracking manufacturing performance. By extracting, transforming, and visualizing data, we gain valuable insights into our production process. The production backlog analysis highlights areas for improvement, and further investigation into related data sources can help us optimize our operations.
 
-Feel free to explore the code and data in this repository to gain a deeper understanding of the analysis. If you have any questions or suggestions, please don't hesitate to reach out. Your feedback is valuable as we continue to enhance our data-driven decision-making at X.
+Feel free to explore the code and data in this repository to gain a deeper understanding of the analysis. If you have any questions or suggestions, please don't hesitate to reach out. Your feedback is valuable as we continue to enhance our data-driven decision-making at X...
