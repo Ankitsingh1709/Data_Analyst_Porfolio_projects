@@ -5,9 +5,9 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 
 - [Data Analysis Project](#data-analysis)
 - [ETL Pipeline](#etl-pipeline)
-- [Customer Churn in Telecommunications](#Customer Churn in Telecommunications)
-- [Medical Cost Prediction](#Medical Cost Prediction)
-- [Salary Prediction](#Salary Prediction)
+- [Customer Churn in Telecommunications](#Customer-Churn-in-Telecommunications)
+- [Medical Cost Prediction](#Medical-Cost-Prediction)
+- [Salary Prediction](#Salary-Prediction)
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
