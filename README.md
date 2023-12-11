@@ -3,6 +3,15 @@
 
 Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
+- [Data Analysis Project](#data-analysis)
+- [ETL Pipeline](#etl-pipeline)
+- [Customer Churn in Telecommunications](#customer-churn)
+- [Medical Cost Prediction](#medical-cost-prediction)
+- [Salary Prediction](#salary-prediction)
+- [Contribution](#contribution)
+- [Conclusion](#conclusion)
+
+
 ## Data Analysis
 
 In this project, we explore and gain insights from a dataset using Python. The code in this repository includes:
