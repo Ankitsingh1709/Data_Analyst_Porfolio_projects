@@ -32,6 +32,8 @@ The Customer Churn in Telecommunications project focuses on understanding and pr
 * Technologies Used: The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
 * Results: The Decision Tree Regressor and Random Forest Regressor performed well
 
+## Salary Prediction:
+The focus of the Demographic-Based Salary Prediction project is to develop a predictive model that estimates the salaries of individuals from diverse countries and races based on their demographic attributes. These attributes encompass a range of variables, including occupation, age, gender, experience, and education. The dataset for this project, acquired from Kaggle, comprises 32,561 rows and 15 columns, with 8 independent variables and the target variable, "Salary."
 
 ## Contribution
 
