@@ -3,7 +3,7 @@
 
 Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
-- [Data Analysis Project](#data-analysis)
+- [Movie Data Analysis](#Movie-Data-Analysis)
 - [ETL Pipeline](#etl-pipeline)
 - [Customer Churn in Telecommunications](#Customer-Churn-in-Telecommunications)
 - [Medical Cost Prediction](#Medical-Cost-Prediction)
@@ -11,16 +11,9 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
+## Movie Data Analysis
 
-## Data Analysis
-
-In this project, we explore and gain insights from a dataset using Python. The code in this repository includes:
-
-- **Data Exploration**: We start by examining the dataset's structure, identifying missing values, and providing an overview of the data.
-
-- **Data Visualization**: You'll find various data visualizations to understand relationships between different variables. These visualizations include scatter plots, regression plots, and correlation matrices.
-
-- **Correlation Analysis**: We calculate correlation coefficients between numeric features to uncover potential relationships within the data.
+This project involves the analysis of a movie dataset using Python. The dataset contains information about various movies, including details such as name, rating, genre, year of release, score, votes, director, writer, star cast, country, budget, gross earnings, company, and runtime. The main objective of this project is to explore the dataset, visualize relationships between certain features, and calculate correlations among numeric attributes.
 
 ## ETL Pipeline
 
@@ -48,8 +41,3 @@ The focus of the Demographic-Based Salary Prediction project is to develop a pre
 
 Contributions to this project are encouraged! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or create a pull request. Collaborative efforts can enhance this project and make it more beneficial to the community.
 
-## Conclusion
-
-This GitHub repository serves as a practical example of combining data analysis and ETL processes using Python. It is a valuable resource for learning about data analysis and building ETL pipelines for your data projects. Explore the code, adapt it to your needs, and leverage the insights gained from this project to enhance your data analysis skills and projects.
-
-Enjoy exploring and working with data!
