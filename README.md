@@ -27,6 +27,11 @@ In addition to data analysis, this project features a robust ETL pipeline. The E
 
 The Customer Churn in Telecommunications project focuses on understanding and predicting customer churn within the telecommunications industry. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using the services of a company and move to a competitor or discontinue using the service altogether. This project aims to analyze and model customer behavior to identify factors that contribute to churn and develop strategies to mitigate it.
 
+# Medical Cost Prediction:
+* Description: The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
+* Technologies Used: The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
+* Results: The Decision Tree Regressor and Random Forest Regressor performed well
+
 
 ## Contribution
 
