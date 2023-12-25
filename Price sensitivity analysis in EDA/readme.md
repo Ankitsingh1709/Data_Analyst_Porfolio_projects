@@ -64,11 +64,19 @@ The dataset includes the following columns with their descriptions:
 
 4. Verify the hypothesis of price sensitivity being correlated with churn
 
-5. Recommendations: Provide insights and recommendations for strategies to reduce churn and retain valuable customers.
+By working on this project, we aim to gain a deeper understanding of customer behavior in the Energy sector and develop data-driven solutions to reduce churn and improve customer retention.
 
-By working on this project, we aim to gain a deeper understanding of customer behavior in the telecommunications sector and develop data-driven solutions to reduce churn and improve customer retention.
+# Conclusion 
+### Findings:
+- Approximately 9,7% customers have churned
+- There are outliers present in the data and these must be treated before modelling
+-  Customers are not sensitive to price changes.
 
-# Conclusion
+### Suggestions:
+- Customer churn maybe due to competitor provider offer more attractive price. 
+
+- Client feedback of PowerCo may reveal the hidden reason why customer switch provider. 
+
 
 
 
