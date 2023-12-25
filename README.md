@@ -4,7 +4,7 @@
 Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
 - [Movie Data Analysis](#Movie-Data-Analysis)
-- [ETL Pipeline](#etl-pipeline)
+- [Manufacturing Data Analysis ETL Pipeline](#Manufacturing-Data-Analysis-etl-pipeline)
 - [Customer Churn in Telecommunications](#Customer-Churn-in-Telecommunications)
 - [Medical Cost Prediction](#Medical-Cost-Prediction)
 - [Salary Prediction](#Salary-Prediction)
@@ -16,15 +16,9 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 
 This project involves the analysis of a movie dataset using Python. The dataset contains information about various movies, including details such as name, rating, genre, year of release, score, votes, director, writer, star cast, country, budget, gross earnings, company, and runtime. The main objective of this project is to explore the dataset, visualize relationships between certain features, and calculate correlations among numeric attributes.
 
-## ETL Pipeline
+## Manufacturing Data Analysis ETL Pipeline
 
-In addition to data analysis, this project features a robust ETL pipeline. The ETL process is a crucial component of any data project and encompasses the following stages:
-
-- **Extract**: Data is obtained from one or more sources. In this project, the data can be sourced from various places such as CSV files, databases, or web APIs.
-
-- **Transform**: Data is often not in the right format for analysis. The transformation step involves cleaning, aggregating, and structuring the data into a suitable format for analysis. This includes handling missing values, encoding categorical variables, and performing feature engineering.
-
-- **Load**: Once the data is transformed, it is loaded into a suitable storage or database for easy access and future use.
+The aim of the "Manufacturing Data Analysis (ETL pipeline)" project is to leverage data analytics to optimize manufacturing operations at company X. By extracting, transforming, and visualizing manufacturing data using Python, PostgreSQL, dbt, and Power BI, the project seeks to identify production backlogs, pinpoint potential inefficiencies or delays in production, and offer insights for improvement. Through comprehensive data analysis and visualization, it aims to empower data-driven decision-making, highlighting key areas for optimization and enhancement within the manufacturing process at company X.
 
 ## Customer Churn in Telecommunications
 
