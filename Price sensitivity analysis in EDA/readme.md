@@ -42,12 +42,12 @@ The dataset includes the following columns with their descriptions:
 
 ### price_data.csv
 
-●	id = client company identifier
-●	price_date = reference date
-●	price_off_peak_var = price of energy for the 1st period (off peak)
-●	price_peak_var = price of energy for the 2nd period (peak)
-●	price_mid_peak_var = price of energy for the 3rd period (mid peak)
-●	price_off_peak_fix = price of power for the 1st period (off peak)
-●	price_peak_fix = price of power for the 2nd period (peak)
-●	price_mid_peak_fix = price of power for the 3rd period (mid peak)
+-	id = client company identifier
+- price_date = reference date
+-	price_off_peak_var = price of energy for the 1st period (off peak)
+- 	price_peak_var = price of energy for the 2nd period (peak)
+-	price_mid_peak_var = price of energy for the 3rd period (mid peak)
+-	price_off_peak_fix = price of power for the 1st period (off peak)
+-	price_peak_fix = price of power for the 2nd period (peak)
+-	price_mid_peak_fix = price of power for the 3rd period (mid peak)
 
