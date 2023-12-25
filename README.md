@@ -8,6 +8,7 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 - [Customer Churn in Telecommunications](#Customer-Churn-in-Telecommunications)
 - [Medical Cost Prediction](#Medical-Cost-Prediction)
 - [Salary Prediction](#Salary-Prediction)
+- [EDA Price sensitivity analysis] (#EDA-Price-sensitivity-analysis)
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
@@ -36,6 +37,9 @@ The Customer Churn in Telecommunications project focuses on understanding and pr
 
 ## Salary Prediction
 The focus of the Demographic-Based Salary Prediction project is to develop a predictive model that estimates the salaries of individuals from diverse countries and races based on their demographic attributes. These attributes encompass a range of variables, including occupation, age, gender, experience, and education. The dataset for this project, acquired from Kaggle, comprises 32,561 rows and 15 columns, with 8 independent variables and the target variable, "Salary."
+
+## EDA Price sensitivity analysis
+The primary objective of this project is to explore customer behavior within an energy company, particularly focusing on churners, and investigate their sensitivity towards pricing changes. The dataset pertains to PowerCo, an energy company supplying energy to small and medium-sized enterprises in the European market.
 
 ## Contribution
 
