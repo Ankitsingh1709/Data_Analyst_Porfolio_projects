@@ -54,3 +54,21 @@ The dataset includes the following columns with their descriptions:
 | price_peak_fix         | Price of power for the 2nd period (peak)              |
 | price_mid_peak_fix     | Price of power for the 3rd period (mid peak)          |
 
+# Project Goals
+
+1. Data Exploration: Explore and analyze the dataset to identify trends, patterns, and potential factors influencing customer churn.
+
+2. Feature Engineering: Create relevant features and preprocess the data for modeling.
+
+3. What are the key factors for a customer deciding to stay with or switch providers?
+
+4. Verify the hypothesis of price sensitivity being correlated with churn
+
+5. Recommendations: Provide insights and recommendations for strategies to reduce churn and retain valuable customers.
+
+By working on this project, we aim to gain a deeper understanding of customer behavior in the telecommunications sector and develop data-driven solutions to reduce churn and improve customer retention.
+
+# Conclusion
+
+
+
