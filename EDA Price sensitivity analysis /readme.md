@@ -1,3 +1,4 @@
+![Alt text](6-3.webp)
 # Background
 Our client is PowerCo, a major gas and electricity utility company that supplies to corporate, SME (small and medium enterprise) and residential customers. The power liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with us to help diagnose and drive the source of churning SME customers.
 
