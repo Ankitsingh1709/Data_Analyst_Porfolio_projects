@@ -8,7 +8,7 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 - [Customer Churn in Telecommunications](#Customer-Churn-in-Telecommunications)
 - [Medical Cost Prediction](#Medical-Cost-Prediction)
 - [Salary Prediction](#Salary-Prediction)
-- [EDA Price sensitivity analysis] (#EDA-Price-sensitivity-analysis)
+- [EDA Price sensitivity analysis](#EDA-Price-sensitivity-analysis)
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
