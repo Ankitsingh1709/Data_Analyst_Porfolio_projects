@@ -10,7 +10,6 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 - [Salary Prediction](#Salary-Prediction)
 - [EDA Price sensitivity analysis](#EDA-Price-sensitivity-analysis)
 - [Contribution](#contribution)
-- [Conclusion](#conclusion)
 
 ## Movie Data Analysis
 
