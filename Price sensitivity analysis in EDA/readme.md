@@ -33,5 +33,24 @@ The dataset includes the following columns with their descriptions:
 | forecast_price_pow_off_peak| Forecasted power price for 1st period (off peak)   |
 | has_gas                | Indicated if client is also a gas client             |
 | imp_cons               | Current paid consumption        
+| margin_gross_pow_ele   | Gross margin on power subscription                   |
+| margin_net_pow_ele     | Net margin on power subscription                     |
+| nb_prod_act            | Number of active products and services               |
+| net_margin             | Total net margin                                     |
+| num_years_antig        | Antiquity of the client (in number of years)         |
+| origin_up              | Code of the electricity campaign the customer first subscribed to |
+| pow_max                | Subscribed power                                     |
+| churn                  | Has the client churned over the next 3 months         |
 
+### Price Data (Columns)
+| Column                 | Description                                           |
+|------------------------|-------------------------------------------------------|
+| id                     | Client company identifier                             |
+| price_date             | Reference date                                        |
+| price_off_peak_var     | Price of energy for the 1st period (off peak)         |
+| price_peak_var         | Price of energy for the 2nd period (peak)             |
+| price_mid_peak_var     | Price of energy for the 3rd period (mid peak)         |
+| price_off_peak_fix     | Price of power for the 1st period (off peak)          |
+| price_peak_fix         | Price of power for the 2nd period (peak)              |
+| price_mid_peak_fix     | Price of power for the 3rd period (mid peak)          |
 
