@@ -66,6 +66,11 @@ The dataset includes the following columns with their descriptions:
 
 By working on this project, we aim to gain a deeper understanding of customer behavior in the Energy sector and develop data-driven solutions to reduce churn and improve customer retention.
 
+# Technologies Used:
+- Data preprocessing and analysis: Python, Pandas, NumPy
+- Data visualization: Matplotlib, Seaborn
+- Creaiting price sensitive KPI 
+
 # Conclusion 
 ### Findings:
 - Approximately 9,7% customers have churned.
