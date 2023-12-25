@@ -11,43 +11,27 @@ The project focuses on understanding customer churn within the energy industry. 
 # Data Dictionary
 
 The dataset includes the following columns with their descriptions:
-### client_data.csv
-●	id = client company identifier                         
-●	activity_new = category of the company’s activity    
-●	channel_sales = code of the sales channel                     
-●	cons_12m = electricity consumption of the past 12 months   
-●	cons_gas_12m = gas consumption of the past 12 months     
-●	cons_last_month = electricity consumption of the last month   
-●	date_activ = date of activation of the contract       
-●	date_end = registered date of the end of the contract     
-●	date_modif_prod = date of the last modification of the product     
-●	date_renewal = date of the next contract renewal                        
-●	forecast_cons_12m = forecasted electricity consumption for next 12 months  
-●	forecast_cons_year = forecasted electricity consumption for the next calendar year    
-●	forecast_discount_energy = forecasted value of current discount       
-●	forecast_meter_rent_12m = forecasted bill of meter rental for the next 2 months        
-●	forecast_price_energy_off_peak = forecasted energy price for 1st period (off peak)     
-●	forecast_price_energy_peak = forecasted energy price for 2nd period (peak)             
-●	forecast_price_pow_off_peak = forecasted power price for 1st period (off peak)          
-●	has_gas = indicated if client is also a gas client        
-●	imp_cons = current paid consumption        
-●	margin_gross_pow_ele = gross margin on power subscription    
-●	margin_net_pow_ele = net margin on power subscription        
-●	nb_prod_act = number of active products and services            
-●	net_margin = total net margin                                                    
-●	num_years_antig = antiquity of the client (in number of years)    
-●	origin_up = code of the electricity campaign the customer first subscribed to    
-●	pow_max = subscribed power                                             
-●	churn = has the client churned over the next 3 months          
+### Client Data (Columns)
+| Column                 | Description                                           |
+|------------------------|-------------------------------------------------------|
+| id                     | Client company identifier                             |
+| activity_new           | Category of the company’s activity                    |
+| channel_sales          | Code of the sales channel                             |
+| cons_12m               | Electricity consumption of the past 12 months         |
+| cons_gas_12m           | Gas consumption of the past 12 months                 |
+| cons_last_month        | Electricity consumption of the last month             |
+| date_activ             | Date of activation of the contract                    |
+| date_end               | Registered date of the end of the contract             |
+| date_modif_prod        | Date of the last modification of the product          |
+| date_renewal           | Date of the next contract renewal                     |
+| forecast_cons_12m      | Forecasted electricity consumption for next 12 months |
+| forecast_cons_year     | Forecasted electricity consumption for the next year  |
+| forecast_discount_energy| Forecasted value of current discount                  |
+| forecast_meter_rent_12m| Forecasted bill of meter rental for the next 2 months |
+| forecast_price_energy_off_peak| Forecasted energy price for 1st period (off peak) |
+| forecast_price_energy_peak| Forecasted energy price for 2nd period (peak)      |
+| forecast_price_pow_off_peak| Forecasted power price for 1st period (off peak)   |
+| has_gas                | Indicated if client is also a gas client             |
+| imp_cons               | Current paid consumption        
 
-### price_data.csv
-
--	id = client company identifier
-- price_date = reference date
--	price_off_peak_var = price of energy for the 1st period (off peak)
-- 	price_peak_var = price of energy for the 2nd period (peak)
--	price_mid_peak_var = price of energy for the 3rd period (mid peak)
--	price_off_peak_fix = price of power for the 1st period (off peak)
--	price_peak_fix = price of power for the 2nd period (peak)
--	price_mid_peak_fix = price of power for the 3rd period (mid peak)
 
