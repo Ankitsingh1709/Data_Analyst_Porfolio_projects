@@ -68,9 +68,10 @@ By working on this project, we aim to gain a deeper understanding of customer be
 
 # Conclusion 
 ### Findings:
-- Approximately 9,7% customers have churned
-- There are outliers present in the data and these must be treated before modelling
--  Customers are not sensitive to price changes.
+- Approximately 9,7% customers have churned.
+- There are outliers present in the data and dataset is positively skewed.
+- Customers are not sensitive to price changes.
+- churners are high in customer with no gas.
 
 ### Suggestions:
 - Customer churn maybe due to competitor provider offer more attractive price. 
