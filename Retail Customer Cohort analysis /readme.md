@@ -1,10 +1,14 @@
+# Customer retention analysis
 ![Alt text](og_image_mall_web.jpg)
+Customer retention can be described as a way to look at how engaged and loyal customers are, that is, whether they continue using the service after their first purchase. 
+
 # Background
-This case study is doneon wolt a leading platform that's makes it easy for customers to order whatever they need on one app, for merchants to make additional sales, and for couriers to make meaningful earnings flexibly.
+This case study is done on wolt database. wolt is a leading platform that's makes it easy for customers to order whatever they need on one app, for merchants to make additional sales, and for couriers to make meaningful earnings flexibly.
 - The data is an artificial dataset that could be produced by wolt purchase process, where a user makes their first and possibly following purchases from Wolt.  
 - Wolt has separated these purchases into two files, the first one containing only the users’ first ever purchases from Wolt **first_purchases**, and the second one containing all purchases from these users **purchases**.
 
 # Project overview
+**Please refer to solution SQL file where I have explained each steps in detail with SQL querry**
 The project task is to see how well Wolt manages to retain its customers month afeter month based on when users made their first ever purchase.
 - Cohort based monthly retention for Retail product line.
 - Cohort based monthly retention for Restaurant product line
@@ -37,16 +41,19 @@ The dataset includes the following columns with their descriptions:
 I am going to use PostgreSQL to solve the problem and calculate the cohort based monthaly retention for Retal and Restaurant, and then use Power BI for visualizations. 
 The hole process can be done in Power BI but they asked to use SQL and any other tool for visualizations.
 
-# Conclusion 
+# Results 
 ### Findings:
+
 Below figure shows the result for **Restaurant** product line. 
 ![Alt text](image.png)
 ---
 ![Alt text](image-1.png)
 ---
+by percentage
 ![Alt text](image-2.png)
 
 Below figure shows the result for **Restaurant** product line.
+
 ![Alt text](image-3.png)
 ---
 ![Alt text](image-4.png)
