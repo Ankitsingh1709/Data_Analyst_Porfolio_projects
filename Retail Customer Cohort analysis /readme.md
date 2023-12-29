@@ -1,3 +1,4 @@
+![Alt text](og_image_mall_web.jpg)
 # Background
 This case study is provide by wolt a leading platform that's makes it easy for customers to order whatever they need on one app, for merchants to make additional sales, and for couriers to make meaningful earnings flexibly.
 - The data is an artificial dataset that could be produced by wolt purchase process, where a user makes their first and possibly following purchases from Wolt.  
@@ -22,7 +23,7 @@ The dataset includes the following columns with their descriptions:
 
 ### purchases
 
-|  Coloum           | Description                                        |
+|  Coloum               | Description                                        |
 |-----------------------|----------------------------------------------------|
 | Purchase Date         | Date (UTC) of the purchase.                         |
 | Product Line          | Product line of the purchase: 'Restaurant' or 'Retail store'. |
