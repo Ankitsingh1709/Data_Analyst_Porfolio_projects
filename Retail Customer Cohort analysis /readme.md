@@ -49,19 +49,22 @@ The hole process can be done in Power BI but they asked to use SQL and any other
 Below figure shows the result for **Restaurant** product line. 
 ![Alt text](image-2.png)
 
----
-![Alt text](image.png)
----
-by percentage
-![Alt text](image-1.png)
 
+![Alt text](image.png)
+
+by percentage
+
+![Alt text](image-1.png)
+**---**
 
 Below figure shows the result for **Restaurant** product line.
 
 ![Alt text](image-3.png)
----
+
+
 ![Alt text](image-4.png)
----
+
+
 by percentage 
 ![Alt text](image-5.png)
 
