@@ -1,7 +1,7 @@
 
 ## Overview
 
-Welcome!! to my GitHub repository it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
+Welcome!! to my GitHub repository, it's hosts a comprehensive project that combines data analysis and ETL pipeline, predictive models implementation using Python. The project focuses on data exploration, visualization, and automated data transformation to prepare it for further analysis.
 
 - [Movie Data Analysis](#Movie-Data-Analysis)
 - [Manufacturing Data Analysis ETL Pipeline](#Manufacturing-Data-Analysis-etl-pipeline)
@@ -9,6 +9,7 @@ Welcome!! to my GitHub repository it's hosts a comprehensive project that combin
 - [Medical Cost Prediction](#Medical-Cost-Prediction)
 - [Salary Prediction](#Salary-Prediction)
 - [EDA Price sensitivity analysis](#EDA-Price-sensitivity-analysis)
+- [Customer retention analysis](#Customer-retention-analysis)
 - [Contribution](#contribution)
 
 ## Movie Data Analysis
@@ -24,7 +25,7 @@ The aim of the "Manufacturing Data Analysis (ETL pipeline)" project is to levera
 The Customer Churn in Telecommunications project focuses on understanding and predicting customer churn within the telecommunications industry. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop using the services of a company and move to a competitor or discontinue using the service altogether. This project aims to analyze and model customer behavior to identify factors that contribute to churn and develop strategies to mitigate it.
 
 ## Medical Cost Prediction
-* Description: The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
+* Description: The project predicts the medical treatment cost by analyzing the patient's age, gender, BMI, smoking habits etc.
 * Technologies Used: The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
 * Results: The Decision Tree Regressor and Random Forest Regressor performed well
 
@@ -33,6 +34,9 @@ The focus of the Demographic-Based Salary Prediction project is to develop a pre
 
 ## EDA Price sensitivity analysis
 The primary objective of this project is to explore customer behavior within an energy company, particularly focusing on churners, and investigate their sensitivity towards pricing changes. The dataset pertains to PowerCo, an energy company supplying energy to small and medium-sized enterprises in the European market.
+
+## Customer retention analysis
+This project aims to calculate the retention rate for retail companies by performing Cohort analysis on two different datasets. This inside can be used by the company to strategies their campaigns and also customer preferences.  
 
 ## Contribution
 
