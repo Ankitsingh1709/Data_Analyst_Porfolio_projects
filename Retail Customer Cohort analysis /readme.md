@@ -69,7 +69,7 @@ by percentage
 ![Alt text](image-5.png)
 
 # Suggestion 
---**User Profiles:** Adding demographic data or user characteristics might provide insights into different user behaviors affecting retention.
---**Marketing Campaign Data:** Information on marketing campaigns during specific periods could correlate with changes in retention rates.
---**User Engagement Metrics:** Incorporating data on user activity or engagement beyond purchases could offer a more comprehensive view of retention.
---**Feedback or Customer Satisfaction Data:** Gathering feedback or customer satisfaction scores might correlate with retention rates.
+-**User Profiles:** Adding demographic data or user characteristics might provide insights into different user behaviors affecting retention.
+-**Marketing Campaign Data:** Information on marketing campaigns during specific periods could correlate with changes in retention rates.
+-**User Engagement Metrics:** Incorporating data on user activity or engagement beyond purchases could offer a more comprehensive view of retention.
+-**Feedback or Customer Satisfaction Data:** Gathering feedback or customer satisfaction scores might correlate with retention rates.
