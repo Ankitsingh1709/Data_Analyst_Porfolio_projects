@@ -9,9 +9,11 @@ This case study is done on wolt database. wolt is a leading platform that's make
 
 # Project overview
 **Please refer to solution SQL file where I have explained each steps in detail with SQL querry**
+
 The project task is to see how well Wolt manages to retain its customers month afeter month based on when users made their first ever purchase.
 - Cohort based monthly retention for Retail product line.
 - Cohort based monthly retention for Restaurant product line
+
 I have used PostgreSQL with pgAdmin to solve the problem and Power BI for visualizations
 
 # Data Dictionary
@@ -45,12 +47,14 @@ The hole process can be done in Power BI but they asked to use SQL and any other
 ### Findings:
 
 Below figure shows the result for **Restaurant** product line. 
+![Alt text](image-2.png)
+
+---
 ![Alt text](image.png)
 ---
-![Alt text](image-1.png)
----
 by percentage
-![Alt text](image-2.png)
+![Alt text](image-1.png)
+
 
 Below figure shows the result for **Restaurant** product line.
 
