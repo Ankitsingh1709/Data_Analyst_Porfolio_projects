@@ -56,7 +56,7 @@ by percentage
 
 ![Alt text](image-1.png)
 
-**---**
+---
 
 Below figure shows the result for **Restaurant** product line.
 
