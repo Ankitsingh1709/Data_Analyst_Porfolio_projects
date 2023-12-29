@@ -40,7 +40,8 @@ The dataset includes the following columns with their descriptions:
 # Technologies Used:
 - PostgreSQL
 - Power BI
-I am going to use PostgreSQL to solve the problem and calculate the cohort based monthaly retention for Retal and Restaurant, and then use Power BI for visualizations. 
+I am going to use PostgreSQL to solve the problem and calculate the cohort based monthaly retention for Retal and Restaurant, and then use Power BI for visualizations.
+ 
 The hole process can be done in Power BI but they asked to use SQL and any other tool for visualizations.
 
 # Results 
