@@ -40,6 +40,8 @@ The primary objective of this project is to explore customer behavior within an 
 This project aims to calculate the retention rate for retail companies by performing Cohort analysis on two different datasets. This inside can be used by the company to strategies their campaigns and also customer preferences.  
 
 ## Customer Profile for CardioGood Fitness
+The main objective of this project is to create a customer profile for CardioGood Fitness, which can be used to undestand about the customer behaviour and also how product are being used by different demographics.
+To achieve this, I will utilize statistical analysis and a correlation matrix to build a comprehensive customer profile
 
 ## Contribution
 
