@@ -60,9 +60,7 @@ Overall, customer profiles are essential for making data-driven decisions that e
 - Miles: Users of the TM798 tend to run more miles
 - Fitness Level: This treadmill likely appeals to serious exercisers or runners due to its wider range and related fitness levels.
 
-
 ### Overall
-
 - CardioGood Fitness offers treadmills catering to a range of customer needs and budgets.
 - TM195 is the most affordable option, suitable for beginners or budget-conscious exercisers.
 - TM498 provides a balance of affordability and functionality, attracting a wider demographic.
