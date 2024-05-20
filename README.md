@@ -10,6 +10,7 @@ Welcome!! to my GitHub repository, it's hosts a comprehensive project that combi
 - [Salary Prediction](#Salary-Prediction)
 - [EDA Price sensitivity analysis](#EDA-Price-sensitivity-analysis)
 - [Customer retention analysis](#Customer-retention-analysis)
+- [Customer Profile for CardioGood Fitness](#Customer-Profile-for-CardioGood-Fitness)
 - [Contribution](#contribution)
 
 ## Movie Data Analysis
@@ -37,6 +38,8 @@ The primary objective of this project is to explore customer behavior within an 
 
 ## Customer retention analysis
 This project aims to calculate the retention rate for retail companies by performing Cohort analysis on two different datasets. This inside can be used by the company to strategies their campaigns and also customer preferences.  
+
+## Customer Profile for CardioGood Fitness
 
 ## Contribution
 
