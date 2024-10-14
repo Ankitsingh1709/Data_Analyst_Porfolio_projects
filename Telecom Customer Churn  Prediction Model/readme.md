@@ -55,5 +55,3 @@ By working on this project, we aim to gain a deeper understanding of customer be
 3. No Online Security, No Tech Support: Customers without online security and tech support features tend to exhibit higher churn rates. This indicates the importance of these services in retaining customers, as their absence may lead to dissatisfaction and attrition.
 
 4. Non-Senior Citizens: It's interesting to observe that non-senior citizens are more likely to churn. This demographic insight can inform targeted retention strategies to better cater to the needs and preferences of different age groups.
-
-Feel free to expand on this **description** to provide more details about your project, its structure, and any additional information you want to share with potential collaborators or users.
